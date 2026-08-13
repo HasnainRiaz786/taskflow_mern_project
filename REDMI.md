@@ -15,24 +15,27 @@ TaskFlow is a full-stack task management web application built using the **MERN 
 ## 🖥️ Screenshots
 
 ### 🔑 Login Page
-![Login Page](./screenshots/login.png)
+<img width="1366" height="768" alt="login" src="https://github.com/user-attachments/assets/26dd9afd-0394-4bde-b079-c2b4463a5d22" />
+
 
 ### 🆕 Sign Up Page
-![Sign Up Page](./screenshots/signup.png)
+<img width="1366" height="768" alt="signup" src="https://github.com/user-attachments/assets/c64c5c96-4f6e-4b4b-90b4-477e96074801" />
+
 
 ### 📋 Task List
-![Task List](./screenshots/list.png)
+<img width="1355" height="757" alt="list" src="https://github.com/user-attachments/assets/6d8cfe5c-807c-478b-a6fb-8c7ef777cacd" />
+
 
 ### ☑️ Select & Delete Tasks
-![Select Tasks](./screenshots/delete-select.png)
+<img width="1366" height="768" alt="deleteone" src="https://github.com/user-attachments/assets/e613dadb-978d-42bf-bda9-e40cb317b073" />
+
 
 ### ✏️ Update Task
-![Update Task](./screenshots/updatetask.png)
+<img width="1366" height="768" alt="updatetask" src="https://github.com/user-attachments/assets/13ac8d65-beb2-4ed9-8167-475759bde1ef" />
+
 
 ### 🗑️ Bulk Delete
-![Bulk Delete](./screenshots/alldelete.png)
-
-> Note: Place your screenshot images inside a `screenshots` folder in the project root, and rename them to match the file names used above (or update the paths accordingly).
+<img width="1366" height="768" alt="alldell" src="https://github.com/user-attachments/assets/8403c837-4ae5-443a-ab12-17f48736e94f" />
 
 ## 🛠️ Tech Stack
 
