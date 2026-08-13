@@ -38,6 +38,7 @@ Database:
 
 MongoDB (Mongoose)
 📂 Project Structure
+```
 TaskFlow/
 ├── client/               # React frontend (Vite)
 │   ├── src/
@@ -51,6 +52,9 @@ TaskFlow/
 │   ├── controllers/      # Route logic
 │   └── server.js
 └── README.md
+```
+---
+
 ⚙️ Installation & Setup
 Clone the repository
 bash
