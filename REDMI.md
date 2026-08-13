@@ -127,8 +127,5 @@ TaskFlow/
 ## 👨‍💻 Author
 
 **Hasnain Riaz**
-- GitHub: [@HasnainRiaz](https://github.com/HasnainRiaz)
+- GitHub: [@HasnainRiaz](https://github.com/HasnainRiaz786)
 
-## 📄 License
-
-This project is licensed under the MIT License.
